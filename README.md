@@ -17,7 +17,7 @@ Moreover, I'm always open to exploring new technologies and expanding my knowled
 ## Contact
 
 - **GitHub**: [github.com/vitorxcp](https://github.com/vitorxcp)
-- **WebSite**: [vitorxp.squareweb](https://vitorxp.squareweb.app)
+- **WebSite**: [vitorxp.squareweb.app](https://vitorxp.squareweb.app)
 - **Email**: vitor.xp.1958@gmail.com
 - **Discord**: vitor_xp
 
