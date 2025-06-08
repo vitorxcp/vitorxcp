@@ -35,6 +35,12 @@
   <img src="https://streak-stats.demolab.com/?user=vitorxcp&theme=tokyonight&hide_border=true" />
 </div>
 
+### ⏱️ Estatísticas WakaTime
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorxp&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+</div>
+
 ---
 
 ### 🧩 Projetos em destaque
