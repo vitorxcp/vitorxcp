@@ -1,50 +1,70 @@
-<h1 align="center">Olá! Eu sou o Jeferson Vitor 👋</h1>
+<h1 align="center">Olá 👋, eu sou o Jeferson Vitor</h1>
+<h3 align="center">Desenvolvedor apaixonado por tecnologia, bots e aplicações web</h3>
 
 <p align="center">
-  💻 Desenvolvedor apaixonado por programação e tecnologia <br>
-  🌱 Sempre aprendendo novas linguagens e explorando ferramentas
+  <img src="https://komarev.com/ghpvc/?username=vitorxcp&label=Visualizações&color=0e75b6&style=flat" alt="vitorxcp" />
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+### 🧑‍💻 Sobre mim
 
-Sou um entusiasta da programação com foco em desenvolvimento web, bots e automações. Gosto de criar sistemas intuitivos e funcionais, sempre buscando aprender e evoluir.
-
-Atualmente desenvolvo projetos em várias linguagens e frameworks modernos. Estou constantemente em busca de desafios que me permitam crescer como programador e contribuir com a comunidade.
-
----
-
-## 🧠 Tecnologias & Linguagens
-
-- **JavaScript** – Desenvolvimento web com Node.js, React e Vue.js  
-- **Python** – Web (Flask, Django), automações e scripts  
-- **Kotlin** – Desenvolvimento de apps Android  
-- **HTML/CSS** – Interfaces responsivas com HTML5 e CSS3  
-- **TypeScript** – Tipagem estática em aplicações JS  
-- **SQL** – Modelagem e consultas em bancos relacionais  
-- **Java** – Aplicações corporativas e sistemas distribuídos  
+- 🔭 Atualmente trabalho em **bots para Discord**, **painéis web**, **sistemas com banco de dados**, **plugins para servidores Minecraft** e **aplicativos mobile**.
+- 🌱 Estudando mais sobre **Ruby**, e **PHP**.
+- 🧠 Gosto de aprender novas linguagens, criar sistemas organizados e interfaces com boa experiência de usuário.
+- ⚡ Especializado em estruturar servidores e desenvolver sistemas automáticos para funções administrativas e de moderação.
 
 ---
 
-## 📊 Estatísticas GitHub
+### 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorxcp&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorxcp&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vitorxcp&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nextjs,html,css,tailwind,python,django,flask,kotlin,java,mysql,mongodb,firebase,git,github,vscode,postman" />
 </div>
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas do GitHub
 
-- 🌐 Site pessoal: [vitorxp.squareweb.app](https://vitorxp.squareweb.app)
-- 📧 Email: vitor.xp.1958@gmail.com
-- 💬 Discord: `vitor_xp`
-- 🧑‍💻 GitHub: [@vitorxcp](https://github.com/vitorxcp)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorxcp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorxcp&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-Sinta-se à vontade para me chamar para bater um papo, colaborar em projetos ou trocar ideias sobre tecnologia 🚀
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=vitorxcp&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🧩 Projetos em destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| [HideChatMessagesVX](https://github.com/vitorxcp/HideChatMessagesVX) | HideChatMessagesVX é um mod client-side para Minecraft 1.8.9 feito para bloquear mensagens repetitivas. |
+| [Rich-Presence-RedeWorth](https://github.com/vitorxcp/Rich-Presence-RedeWorth) | Status personalizado do Discord, para fins de divulgação do servidor Rede Worth. |
+| [VxDicionario](https://github.com/vitorxcp/VxDicionario) | Este pacote foi criado e desenvolvido para pegar as informações de https://www.dicio.com.br/. |
+| [discordv13-giveaways](https://github.com/vitorxcp/discordv13-giveaways) | Uma versão do discord-giveaways só que para a versão 13 do DiscordJS. |
+
+---
+
+### 📬 Contato
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-vitorxp.squareweb.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vitorxp.squareweb.app)
+[![Email](https://img.shields.io/badge/Email-vitor.xp.1958@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.xp.1958@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-vitor_xp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/518862457876250625)
+[![GitHub](https://img.shields.io/badge/GitHub-vitorxcp-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitorxcp)
+
+</div>
+
+---
+
+### ✨ Frase que me representa:
+
+> “Grandes desenvolvedores não nascem prontos. Eles se constroem com cada erro, cada projeto e cada linha de código.”
+
+---
+
+<p align="center">Feito com ❤️ por <strong>Jeferson Vitor</strong></p>
