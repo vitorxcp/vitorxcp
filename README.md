@@ -2,7 +2,6 @@
 
 <p align="center">
   💻 Desenvolvedor apaixonado por programação e tecnologia <br>
-  📚 Estudante do ensino médio | 19 anos <br>
   🌱 Sempre aprendendo novas linguagens e explorando ferramentas
 </p>
 
