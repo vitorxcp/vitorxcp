@@ -27,8 +27,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorxcp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorxcp&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vitorxcp&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locate=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorxcp&layout=compact&theme=tokyonight&hide_border=true&locate=pt-br" />
 </div>
 
 <div align="center">
