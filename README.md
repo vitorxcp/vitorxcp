@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Jeferson Vitor</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;UI%2FX+Enthusiast;Solucionador+de+Problemas" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software; Desenvolvedor+Full-Stack;Desenvolcedor+de+Plugins;Desenvolvedor+de+Mods" alt="Typing SVG">
   </a>
   <br><br>
   <a href="#-sobre-mim"><img src="https://img.shields.io/badge/-Sobre%20Mim-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMEE4RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjAgMjFhNyA3IDAgMCAwLTE0IDAiPjwvcGF0aD48Y2lyY2xlIGN4PSIxMiIgY3k9IjciIHI9IjQiPjwvY2lyY2xlPjwvc3ZnPg=="></a>
