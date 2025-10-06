@@ -1,13 +1,4 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/banners/518862457876250625/a_e57bffd74ddf1064a6bd7e25831f703e.gif?size=1024" alt="Banner de Portfólio de Jeferson Vitor"/>
-  <br><br>
-  
-  <a href="https://github.com/vitorxcp">
-    <img src="https://cdn.discordapp.com/avatars/518862457876250625/a_dd92d27383a7c85ef111c62c1989f168.gif?size=1024" width="150" height="150" style="border-radius:100%; border: 4px solid #00A8FF;" alt="Foto de Jeferson Vitor">
-  </a>
-  
-  <br><br>
-  
   <h1>Jeferson Vitor</h1>
   <p><strong>Desenvolvedor de Software & UI/UX Enthusiast</strong></p>
   <br>
