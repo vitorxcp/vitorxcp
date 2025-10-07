@@ -34,52 +34,19 @@
     <h2>✨ Projetos em Destaque</h2>
   </div>
 </div>
-
-<details>
-  <summary align="center" style="cursor: pointer;">
-    <h3 style="display: inline;">📚 VxDicionario</h3>
-  </summary>
+  <a href="https://github.com/vitorxcp/VxDicionario">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorxcp&repo=VxDicionario&show_owner=true&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00A8FF&text_color=FFF&icon_color=00A8FF&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" width="48%"/>
+  </a>
+  <a href="https://github.com/vitorxcp/discordv13-giveaways">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorxcp&repo=discordv13-giveaways&show_owner=true&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00A8FF&text_color=FFF&icon_color=00A8FF&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" width="48%"/>
+  </a>
+  <a href="https://github.com/vitorxcp/Rich-Presence-RedeWorth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorxcp&repo=Rich-Presence-RedeWorth&show_owner=true&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00A8FF&text_color=FFF&icon_color=00A8FF&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" width="48%"/>
+  </a>
+  <a href="https://github.com/vitorxcp/HideChatMessagesVX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorxcp&repo=HideChatMessagesVX&show_owner=true&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00A8FF&text_color=FFF&icon_color=00A8FF&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" width="48%"/>
+  </a>
   <br>
-  <div align="center">
-    <p><em>Pacote NPM que funciona como uma API leve e eficiente para o Dicio.com.br.</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    </p>
-    <div style="max-width: 80%;">
-      <h4>Detalhes do Projeto:</h4>
-      <p align="justify">
-        O VxDicionario foi criado para resolver a necessidade de acessar programaticamente o vasto léxico da língua portuguesa disponível no Dicio.com.br. Ele encapsula a lógica de web scraping em uma interface de API simples e assíncrona, permitindo que outros desenvolvedores integrem facilmente definições, sinônimos e antônimos em suas aplicações.
-      </p>
-    </div>
-    <a href="https://github.com/vitorxcp/VxDicionario"><img src="https://img.shields.io/badge/-Ver%20Repositório-00A8FF?style=for-the-badge&logo=github&logoColor=white"></a>
-  </div>
-  <br>
-</details>
-
-<br>
-
-<details>
-  <summary align="center" style="cursor: pointer;">
-    <h3 style="display: inline;">🎉 discordv13-giveaways</h3>
-  </summary>
-  <br>
-  <div align="center">
-    <p><em>Fork de manutenção e modernização de uma biblioteca essencial para a comunidade Discord.</em></p>
-    <p>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </p>
-    <div style="max-width: 80%;">
-      <h4>Detalhes do Projeto:</h4>
-      <p align="justify">
-        Com a atualização para a versão 13 do Discord.js, a popular biblioteca de sorteios tornou-se obsoleta. Assumi a responsabilidade de criar um fork, consertar as incompatibilidades, implementar novas funcionalidades requisitadas pela comunidade e garantir que milhares de servidores pudessem continuar a realizar sorteios de forma segura e eficiente.
-      </p>
-    </div>
-    <a href="https://github.com/vitorxcp/discordv13-giveaways"><img src="https://img.shields.io/badge/-Ver%20Repositório-00A8FF?style=for-the-badge&logo=github&logoColor=white"></a>
-  </div>
-  <br>
-</details>
 
 <div id="-habilidades-técnicas">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
